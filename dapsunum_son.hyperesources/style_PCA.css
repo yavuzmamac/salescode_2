@@ -1,0 +1,102 @@
+.fnt1{
+	font-family: 'Open Sans' !important;
+//	color: white !important;
+}
+body{
+	background-color: rgb(45,45,45) !important;
+}
+head{
+
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    background: transparent;
+    
+}
+.size1{
+	font-size: 52px !important;
+}
+
+.title1_center{
+	color: rgb(230,230,230) !important;
+	font-style: normal !important;
+	line-height: 90px !important;
+	text-align: center !important;
+}
+.text_left{
+	margin-left: 20px !important;
+	text-align: left !important;
+}
+.size2{
+	font-size: 40px !important;
+	line-height: 60px !important;
+}
+
+.bright1{
+color: white !important;
+}
+
+textarea#styled {
+	width: 300px;
+	height: 120px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-size:48px !important;
+	font-family: 'Ubuntu Condensed' !important;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+.card_thumb{
+	transform: scale(.75) !important;
+	transition: all 1s;
+}
+.card_full{
+   transform: scale(1) !important;
+   opacity: .5 !important;
+}
+.color1{
+	background-color: rgb(53,53,98) !important;
+}
+.color2{
+	background-color: rgb(192,46,46) !important;
+}
+.color3{
+	background-color: rgb(76,144,144) !important;
+}
+.color4{
+	background-color: rgb(10,152,255) !important;
+}
+.dot{
+	width: 44px !important;
+	height: 44px !important;
+	font-size: 32px !important;
+	line-height:41px !important;
+	background-color: rgb(130,130,130) !important;
+	border: 1px solid rgb(130,130,130)  !important;	
+	border-radius: 50% !important;
+	border-color: rgb(100,100,100) !important;
+	color: rgb(45,45,45) !important;
+	
+}
+
+  
+.attribution{
+	line-height: 30px !important;
+	font-size: 24px !important;
+	color: rgb(180,180,180) !important;
+}
+.bullets{
+	line-height: 40px !important;
+	font-size: 28px !important;
+	color: rgb(255,255,255) !important;
+
+}
+.size0{
+	font-size: 40px !important;
+	line-height: 90px !important;
+}
+
+.header{
+	color: rgb(200,200,200) !important;
+	}
